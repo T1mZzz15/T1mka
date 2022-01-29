@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Тимз,html,2D Strike">
+    <meta name="description"content="Этот сайт помогает начинающим 2дшерам">
+    <link rel="shortcut icon" href="qwe.jpg"/>
+    <title>2D_Strike Fun</title>
+</head>
+<body link="blue" vlink="#cecece" alink="#ff0000" background="httt.jpg" style="background-size:contain;" text="white">
+<H1 text="red" ALIGN="center"style="background-color:brown" ;style="font-size:30px" >2D Strike
+<H2 ALIGN="center">Шутер с видом сверху</H2>
+<H3 ALIGN="center">Возможностей в игре много, от веселья с друзьями на серверах и оттачивания скилла до борьбы с тупыми-наитупейшими читаками =)</H3>
+   <H4 ALIGN="left" style="font-size:25px" ;style="color:rgb(50, 205, 84);">Режимов в игре тоже немало,как и разнообразных карт (Пользовательские и официальные):</H4>
+   <UL type="square">
+
+<H1 ALIGN="left"><LI>Командная игра (+Счет) </LI> </H1>
+    <img src="команд.jpg" ALIGN="center"> <br>
+   <H1 ALIGN="Left" > <LI> Зомби-заражение <br> </H1>
+        <img src="зомбик.jpg"ALIGN="center"> <br>
+
+       <H1 ALIGN="left" > <LI>Джаггернаут <br> </H1>
+            <img src="мутант.jpg"ALIGN="center"> <br>
+        <H1 ALIGN="left" ><LI>Атака жуков <br> </H1>
+            <img src="жуки.jpg"  width="993" ALIGN="center"> <br>
+   </UL>
+   <H1 style="font-size=30px"> И много других не менее веселых режимов! 
+    <hr>
+    Правила на админских серверах
+    <hr>
+    <img src="Правила..png">
+    <hr size=6>
+    <a href="https://play.google.com/store/apps/details?id=kz.qqqschulz.strike2d" style="color:white">Ссылка на скачивание игры </a> <br>
+    <a href="https://vk.com/t1mzcamp"style="color:blue">Ссылка на нупика Кемпера в ВК </a>
+       <p style="color:tomato;" ALIGN="center"> Спасибо за внимание :)</p> 
+
+
+</body>
+</html>
